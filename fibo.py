@@ -1,7 +1,9 @@
 from math import sqrt
 
 def fibo(num):
-
+    """
+    fibonacci sequence를 구하는 함수 입니다.
+    """
     #if num <2 :
         #return num
     #else:
